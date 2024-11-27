@@ -3,9 +3,9 @@ This repository contains a Python implementation of a single-layer perceptron. T
 
 The project includes:
 
-  A custom perceptron implementation using Python.
-  Training and testing of the perceptron on the Iris dataset.
-  Visualization of the results and evaluation metrics.
+ * A custom perceptron implementation using Python.
+ * Training and testing of the perceptron on the Iris dataset.
+ * Visualization of the results and evaluation metrics.
   
 This work was developed as an assignment, demonstrating the basics of neural network training and classification using a single perceptron.
 
